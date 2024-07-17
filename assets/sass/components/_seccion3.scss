@@ -1,0 +1,27 @@
+
+.card__container{
+    min-width: 630px;
+}
+.seccion3__card{
+    padding: 0;
+    width: 95%;
+      
+}
+.seccion3__img{
+    height: 100%;
+    object-fit: cover;
+}
+.seccion3__card--title{
+    font-size: large;
+    font-weight: 800;
+}
+.seccion3__card--text{
+    text-align: start;
+}
+.seccion3__precio{
+    font-size: medium;
+  
+}
+.seccion3__precio--icon{
+    font-size: 1rem;
+}
